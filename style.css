@@ -1,0 +1,38 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+}
+h1{
+    color: #333;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: small;
+    color: #3367d6;
+    margin-top: 15px;
+
+}
+img{
+    color: #333;
+    margin-bottom: 20px;
+     background-color: #eb0b0b;
+}
+input{
+    width: 250px;
+    padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #aaa;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 15px;
+}
+button:hover {
+background-color: #3367d6;
+}
+#result{
+    margin-top: 25px;
+    font-size: 18px;
+    color: #222;
+}
